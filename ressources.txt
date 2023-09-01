@@ -1,0 +1,23 @@
+tu retrouveras dans ce fichiers tous les documents que j'ai pu
+trouver sur l'allocation dynamique
+
+// pdf sur malloc, free et calloc
+https://www.math.univ-paris13.fr/~cuvelier/docs/Enseignements/M2MPM/LangageC/2013-2014/TableauxDynamiques.pdf
+
+// pdf sur les pointeurs en général
+http://www2.ift.ulaval.ca/~dupuis/Introduction%20a%20l'algorithmique%20et%20a%20la%20programmation%20en%20C++/Pointeurs/Les%20pointeurs.pdf
+
+// pdf sur le C
+https://inf104.wp.imt.fr/files/2020/11/2-C-INF104-Partie_2-2020.pdf
+
+// video sur les points faible de malloc
+https://www.youtube.com/watch?v=Fq9chEBQMFE
+
+// playlist de video courtes sur les concept du c et de la programmation en général
+https://youtube.com/playlist?list=PLYmIsLVSssdL5GzSFZ9oQvtE75dxUHINt&si=HSOBgCSpZ_XRBuxz
+
+// video sur le C en 100 seconde
+https://www.youtube.com/watch?v=U3aXWizDbQ4&pp=ygUQYyBpbiAxMDAgc2Vjb25kcw%3D%3D
+
+// video d'un crack du C qui réécrit son propre malloc (elle dure 2h)
+https://www.youtube.com/watch?v=sZ8GJ1TiMdk&pp=ugMICgJmchABGAHKBQZtYWxsb2M%3D
